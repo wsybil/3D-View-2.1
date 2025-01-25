@@ -1,0 +1,14 @@
+line_type_=0
+vertex_type_=1
+projection_type_=1
+line_width_=1
+vertex_size_=1
+back_red_=0.290196
+back_green_=0.290196
+back_blue_=0.290196
+line_red_=0.686275
+line_green_=0.607843
+line_blue_=0.223529
+vertex_red_=0.988235
+vertex_green_=0.698039
+vertex_blue_=1
